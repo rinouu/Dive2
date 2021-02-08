@@ -73,9 +73,9 @@ header ul:after {
 .function-images {
 	width: 1500px;
 	margin: 0 auto;
-	width: 890px; 
+	width: 1000px; 
 	padding-top: 50px;
-	padding-left: 2%;
+	padding-left: 10%;
 }
 .function-image {
 	float: left;
